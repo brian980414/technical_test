@@ -42,6 +42,3 @@ puedes presionar en likes para dar like y ver como se suma o resta tu like al Po
 En la parte superior derecha de 'TUS PROPIOS POSTS' podras ver el boton de 'Eliminar' y el de 'Editar', esos botones afectan directamente al Post.
 
 Nota: Solo podras editar 'TUS' transacciones realizada con cada 'Post' ,'Comentarios' y 'Likes'.
-
-```bash
-comando-de-ejemplo
